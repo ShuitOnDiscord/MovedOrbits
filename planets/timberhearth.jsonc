@@ -1,0 +1,5 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+    "name": "TimberHearth",
+    "Orbit": {"primaryBody": "BrittleHollow", "semiMajorAxis": 14000}
+}

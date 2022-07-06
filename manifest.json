@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll",
+  "author": "Shuit",
+  "name": "Ordered Orbits",
+  "uniqueName": "Shuit.MovedOrbits",
+  "version": "0.0.1",
+  "owmlVersion": "2.5.2",
+  "dependencies": ["xen.NewHorizons"]
+}
